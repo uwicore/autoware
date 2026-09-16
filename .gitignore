@@ -11,6 +11,8 @@ build/
 install/
 log/
 /src/
+/ResultadosSimulaciones/
+/InitialTimestamp.txt
 
 # Python
 *.pyc
